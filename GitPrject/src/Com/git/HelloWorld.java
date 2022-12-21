@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	System.out.println(D);
 	LocalDate d = LocalDate.now();
 	System.out.println(d);
+	System.out.println(d);
 
 }
 }
